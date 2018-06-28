@@ -10,3 +10,5 @@ Test commit for 3rd time.
 5th commit.
 
 Hotfix from br2.
+
+Edit in master.
